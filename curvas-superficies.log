@@ -1143,4 +1143,126 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: curvas11.png Graphic file (type png)
 <use curvas11.png>
 Package pdftex.def Info: curvas11.png  used on input line 375.
-(pdftex.def)       
+(pdftex.def)             Requested size: 270.66988pt x 210.68492pt.
+
+Underfull \vbox (badness 6141) has occurred while \output is active []
+
+ [17 <./curvas10.png> <./curvas11.png>] [18]
+Chapter 2.
+[19
+
+]
+Overfull \hbox (0.82332pt too wide) in paragraph at lines 409--411
+\OT1/ppl/m/n/10 Dando la vuelta com-pleta alrede-dor de cada c[]^^Prculo parame
+trizamos todo el toro, aunque
+ []
+
+
+Overfull \hbox (7.34895pt too wide) in paragraph at lines 409--411
+\OT1/ppl/m/n/10 para mostrar que una funci[]on $\OT1/cmr/bx/n/10 x\OT1/cmr/m/n/
+10 (\OML/cmm/m/it/10 '; ^^R\OT1/cmr/m/n/10 )$ \OT1/ppl/m/n/10 dada por la ecuac
+i[]on an-te-rior es una parametrizaci[]on
+ []
+
+[20]
+<sup1.png, id=311, 798.985pt x 704.6325pt>
+File: sup1.png Graphic file (type png)
+<use sup1.png>
+Package pdftex.def Info: sup1.png  used on input line 429.
+(pdftex.def)             Requested size: 193.33647pt x 170.50224pt.
+<sup2.png, id=312, 897.3525pt x 608.2725pt>
+File: sup2.png Graphic file (type png)
+<use sup2.png>
+Package pdftex.def Info: sup2.png  used on input line 433.
+(pdftex.def)             Requested size: 193.33647pt x 131.05447pt.
+
+Overfull \hbox (1.90001pt too wide) in paragraph at lines 427--435
+[][] [] 
+ []
+
+[21 <./sup1.png> <./sup2.png>]
+Underfull \vbox (badness 2393) has occurred while \output is active []
+
+ [22]
+<sup3.png, id=325, 220.825pt x 433.62pt>
+File: sup3.png Graphic file (type png)
+<use sup3.png>
+Package pdftex.def Info: sup3.png  used on input line 510.
+(pdftex.def)             Requested size: 96.66823pt x 189.82076pt.
+<sup4.png, id=326, 504.88625pt x 505.89pt>
+File: sup4.png Graphic file (type png)
+<use sup4.png>
+Package pdftex.def Info: sup4.png  used on input line 514.
+(pdftex.def)             Requested size: 135.33493pt x 135.60405pt.
+
+Overfull \hbox (1.90001pt too wide) in paragraph at lines 508--516
+[][] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+<sup5.png, id=331, 361.35pt x 361.35pt>
+File: sup5.png Graphic file (type png)
+<use sup5.png>
+Package pdftex.def Info: sup5.png  used on input line 522.
+(pdftex.def)             Requested size: 135.33493pt x 135.33499pt.
+<sup6.png, id=332, 219.82124pt x 218.8175pt>
+File: sup6.png Graphic file (type png)
+<use sup6.png>
+Package pdftex.def Info: sup6.png  used on input line 526.
+(pdftex.def)             Requested size: 135.33493pt x 134.72054pt.
+
+Overfull \hbox (1.90001pt too wide) in paragraph at lines 520--528
+[][] [] 
+ []
+
+
+Overfull \hbox (16.42288pt too wide) in paragraph at lines 531--532
+\OT1/ppl/m/n/10 alel-o-gramos in-finites-i-males en cada punto de la regi[]on. 
+Pen-sando en usar la parametrizaci[]on
+ []
+
+
+Overfull \hbox (1.66292pt too wide) in paragraph at lines 533--534
+\OT1/ppl/m/n/10 reg-u-lar salvo por una can-ti-dad finita de pun-tos) en el do-
+minio de al-guna parametrizaci[]on
+ []
+
+[24 <./sup3.png> <./sup4.png> <./sup5.png> <./sup6.png>]
+<sup7.png, id=343, 1289.81876pt x 1031.855pt>
+File: sup7.png Graphic file (type png)
+<use sup7.png>
+Package pdftex.def Info: sup7.png  used on input line 542.
+(pdftex.def)             Requested size: 154.66681pt x 123.72278pt.
+ [25 <./sup7.png>]
+[26]
+<sup8.png, id=356, 361.35pt x 336.25626pt>
+File: sup8.png Graphic file (type png)
+<use sup8.png>
+Package pdftex.def Info: sup8.png  used on input line 612.
+(pdftex.def)             Requested size: 174.00163pt x 161.91937pt.
+<sup9.png, id=357, 192.72pt x 433.62pt>
+File: sup9.png Graphic file (type png)
+<use sup9.png>
+Package pdftex.def Info: sup9.png  used on input line 616.
+(pdftex.def)             Requested size: 77.3334pt x 174.0007pt.
+
+Overfull \hbox (1.90001pt too wide) in paragraph at lines 610--618
+[][] [] 
+ []
+
+
+Overfull \hbox (1.3426pt too wide) in paragraph at lines 620--621
+\OT1/ppl/m/n/10 an-te-rior, ver que cada una tiene una parametrizaci[]on tal qu
+e los co-e-fi-cientes de la primera
+ []
+
+[27 <./sup8.png> <./sup9.png>]
+<sup10.png, id=365, 361.35pt x 336.25626pt>
+File: sup10.png Graphic file (type png)
+<use sup10.png>
+Package pdftex.def Info: sup10.png  used on input line 635.
+(pdftex.def)             Requested size: 116.00307pt x 107.94797pt.
+<sup11.png, i
