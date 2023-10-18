@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.1)  15 SEP 2023 08:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.1)  18 OCT 2023 09:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1029,32 +1029,32 @@ Package pdftex.def Info: sup14.png  used on input line 650.
 <sup15.png, id=361, 420.57124pt x 320.19624pt>
 File: sup15.png Graphic file (type png)
 <use sup15.png>
-Package pdftex.def Info: sup15.png  used on input line 666.
+Package pdftex.def Info: sup15.png  used on input line 668.
 (pdftex.def)             Requested size: 193.33647pt x 147.19434pt.
 <sup16.png, id=362, 361.35pt x 392.46625pt>
 File: sup16.png Graphic file (type png)
 <use sup16.png>
-Package pdftex.def Info: sup16.png  used on input line 670.
+Package pdftex.def Info: sup16.png  used on input line 672.
 (pdftex.def)             Requested size: 193.33647pt x 209.98233pt.
 <sup17.png, id=363, 361.35pt x 361.35pt>
 File: sup17.png Graphic file (type png)
 <use sup17.png>
-Package pdftex.def Info: sup17.png  used on input line 677.
+Package pdftex.def Info: sup17.png  used on input line 679.
 (pdftex.def)             Requested size: 116.00307pt x 116.00378pt.
 <sup18.png, id=364, 361.35pt x 361.35pt>
 File: sup18.png Graphic file (type png)
 <use sup18.png>
-Package pdftex.def Info: sup18.png  used on input line 681.
+Package pdftex.def Info: sup18.png  used on input line 683.
 (pdftex.def)             Requested size: 116.00307pt x 116.00378pt.
 <sup19.png, id=365, 361.35pt x 361.35pt>
 File: sup19.png Graphic file (type png)
 <use sup19.png>
-Package pdftex.def Info: sup19.png  used on input line 685.
+Package pdftex.def Info: sup19.png  used on input line 687.
 (pdftex.def)             Requested size: 116.00307pt x 116.00378pt.
 <sup20.png, id=366, 361.35pt x 361.35pt>
 File: sup20.png Graphic file (type png)
 <use sup20.png>
-Package pdftex.def Info: sup20.png  used on input line 689.
+Package pdftex.def Info: sup20.png  used on input line 691.
 (pdftex.def)             Requested size: 116.00307pt x 116.00378pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1065,14 +1065,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <sup21.png, id=389, 1120.185pt x 658.46pt>
 File: sup21.png Graphic file (type png)
 <use sup21.png>
-Package pdftex.def Info: sup21.png  used on input line 714.
+Package pdftex.def Info: sup21.png  used on input line 716.
 (pdftex.def)             Requested size: 193.33647pt x 113.64476pt.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 722.
+LaTeX Warning: Command \textendash invalid in math mode on input line 724.
 
 [29 <./sup21.png>] [30] [31]
-Overfull \hbox (27.87086pt too wide) detected at line 795
+Overfull \hbox (27.87086pt too wide) detected at line 797
 [] \OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u[] \OT1/cmr/m/n/10
  + \OML/cmm/m/it/10 v[] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 1) = [] [] = [] []
  = []2\OML/cmm/m/it/10 u
@@ -1081,40 +1081,40 @@ Overfull \hbox (27.87086pt too wide) detected at line 795
 <sup22.png, id=405, 361.35pt x 364.36125pt>
 File: sup22.png Graphic file (type png)
 <use sup22.png>
-Package pdftex.def Info: sup22.png  used on input line 822.
+Package pdftex.def Info: sup22.png  used on input line 824.
 (pdftex.def)             Requested size: 123.73817pt x 124.77074pt.
 <sup23.png, id=406, 361.35pt x 364.36125pt>
 File: sup23.png Graphic file (type png)
 <use sup23.png>
-Package pdftex.def Info: sup23.png  used on input line 826.
+Package pdftex.def Info: sup23.png  used on input line 828.
 (pdftex.def)             Requested size: 123.73817pt x 124.77074pt.
 <sup24.png, id=407, 361.35pt x 349.305pt>
 File: sup24.png Graphic file (type png)
 <use sup24.png>
-Package pdftex.def Info: sup24.png  used on input line 830.
+Package pdftex.def Info: sup24.png  used on input line 832.
 (pdftex.def)             Requested size: 123.73817pt x 119.61491pt.
 <sup25.png, id=408, 361.35pt x 321.2pt>
 File: sup25.png Graphic file (type png)
 <use sup25.png>
-Package pdftex.def Info: sup25.png  used on input line 834.
+Package pdftex.def Info: sup25.png  used on input line 836.
 (pdftex.def)             Requested size: 96.66823pt x 85.92627pt.
 <sup26.png, id=409, 361.35pt x 269.005pt>
 File: sup26.png Graphic file (type png)
 <use sup26.png>
-Package pdftex.def Info: sup26.png  used on input line 838.
+Package pdftex.def Info: sup26.png  used on input line 840.
 (pdftex.def)             Requested size: 96.66823pt x 71.96324pt.
 <sup27.png, id=410, 361.35pt x 234.8775pt>
 File: sup27.png Graphic file (type png)
 <use sup27.png>
-Package pdftex.def Info: sup27.png  used on input line 842.
+Package pdftex.def Info: sup27.png  used on input line 844.
 (pdftex.def)             Requested size: 96.66823pt x 62.83359pt.
 <sup28.png, id=411, 361.35pt x 280.04625pt>
 File: sup28.png Graphic file (type png)
 <use sup28.png>
-Package pdftex.def Info: sup28.png  used on input line 846.
+Package pdftex.def Info: sup28.png  used on input line 848.
 (pdftex.def)             Requested size: 96.66823pt x 74.91696pt.
 
-Underfull \hbox (badness 4229) in paragraph at lines 820--848
+Underfull \hbox (badness 4229) in paragraph at lines 822--850
 [][] [] []
  []
 
@@ -1124,7 +1124,7 @@ Chapter 3.
 <gauss1.png, id=428, 1049.9225pt x 903.375pt>
 File: gauss1.png Graphic file (type png)
 <use gauss1.png>
-Package pdftex.def Info: gauss1.png  used on input line 867.
+Package pdftex.def Info: gauss1.png  used on input line 869.
 (pdftex.def)             Requested size: 270.66988pt x 232.88701pt.
 [34
 
@@ -1132,7 +1132,7 @@ Package pdftex.def Info: gauss1.png  used on input line 867.
 Underfull \vbox (badness 2608) has occurred while \output is active []
 
  [35 <./gauss1.png>]
-Overfull \hbox (8.33925pt too wide) detected at line 896
+Overfull \hbox (8.33925pt too wide) detected at line 898
 []
  []
 
@@ -1140,28 +1140,28 @@ Overfull \hbox (8.33925pt too wide) detected at line 896
 <gauss2.png, id=443, 688.5725pt x 656.4525pt>
 File: gauss2.png Graphic file (type png)
 <use gauss2.png>
-Package pdftex.def Info: gauss2.png  used on input line 954.
+Package pdftex.def Info: gauss2.png  used on input line 956.
 (pdftex.def)             Requested size: 193.33647pt x 184.31628pt.
  [37] [38 <./gauss2.png>] [39]
 <gauss3.png, id=460, 718.685pt x 901.3675pt>
 File: gauss3.png Graphic file (type png)
 <use gauss3.png>
-Package pdftex.def Info: gauss3.png  used on input line 1034.
+Package pdftex.def Info: gauss3.png  used on input line 1036.
 (pdftex.def)             Requested size: 284.52995pt x 170.71144pt.
  [40 <./gauss3.png>]
-Overfull \hbox (2.10556pt too wide) in paragraph at lines 1070--1072
+Overfull \hbox (2.10556pt too wide) in paragraph at lines 1072--1074
 \OT1/ppl/m/n/10 Y que los "s[]^^Pmbolos de Christof-fel" $\OT1/cmr/m/n/10 ^^@[]
 $ \OT1/ppl/m/n/10 est[]an da-dos en t[]erminos []unicamente de la primera
  []
 
 [41]
-Overfull \hbox (42.75pt too wide) in paragraph at lines 1105--1106
+Overfull \hbox (42.75pt too wide) in paragraph at lines 1107--1108
 \OT1/ppl/m/n/10 que de he-cho no es de-scono-cido para nosotros: se trata de la
  ex-presi[]on $[]$.
  []
 
 [42]
-Overfull \hbox (3.93271pt too wide) in paragraph at lines 1121--1122
+Overfull \hbox (3.93271pt too wide) in paragraph at lines 1123--1124
 \OT1/ppl/m/n/10 tas dos su-per-fi-cies tienen misma cur-vatura Gaus-siana pero 
 no son lo-cal-mente isom[]etricas. 
  []
@@ -1170,7 +1170,7 @@ no son lo-cal-mente isom[]etricas.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [43]
-Overfull \hbox (30.26216pt too wide) in paragraph at lines 1155--1156
+Overfull \hbox (30.26216pt too wide) in paragraph at lines 1157--1158
 []\OT1/ppl/m/n/10 Pero, ?`que no podr[]^^Pan ex-i-s-tir otras parametriza-cione
 s que hicieran es-tas su-per-fi-cies isom[]etricas?
  []
@@ -1179,13 +1179,13 @@ s que hicieran es-tas su-per-fi-cies isom[]etricas?
 <gauss4.png, id=485, 804.00375pt x 463.7325pt>
 File: gauss4.png Graphic file (type png)
 <use gauss4.png>
-Package pdftex.def Info: gauss4.png  used on input line 1160.
+Package pdftex.def Info: gauss4.png  used on input line 1162.
 (pdftex.def)             Requested size: 386.67296pt x 223.02069pt.
  [45 <./gauss4.png>]
 <gauss5.png, id=492, 792.9625pt x 887.315pt>
 File: gauss5.png Graphic file (type png)
 <use gauss5.png>
-Package pdftex.def Info: gauss5.png  used on input line 1205.
+Package pdftex.def Info: gauss5.png  used on input line 1207.
 (pdftex.def)             Requested size: 154.66681pt x 173.05957pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1194,31 +1194,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <gauss6.png, id=497, 736.7525pt x 525.965pt>
 File: gauss6.png Graphic file (type png)
 <use gauss6.png>
-Package pdftex.def Info: gauss6.png  used on input line 1221.
+Package pdftex.def Info: gauss6.png  used on input line 1223.
 (pdftex.def)             Requested size: 193.33647pt x 138.0157pt.
 
-Overfull \hbox (10.35281pt too wide) in paragraph at lines 1223--1224
+Overfull \hbox (10.35281pt too wide) in paragraph at lines 1225--1226
 []\OT1/ppl/m/n/10 Lo primero que debe-mos de-mostrar es que la derivada co-vari
 -ante es un con-cepto intr[]^^Pnseco
  []
 
 
 LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 1
-226.
+228.
 
 
 LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 1
-226.
+228.
 
 Missing character: There is no · in font cmr10!
 [47 <./gauss5.png>]
-Overfull \hbox (4.63284pt too wide) in paragraph at lines 1247--1249
+Overfull \hbox (4.63284pt too wide) in paragraph at lines 1249--1251
 \OT1/ppl/m/n/10 En fin, la derivada co-vari-ante tiene una ex-presi[]on en t[]e
 rminos de los s[]^^Pmbolos de Christof-
  []
 
 [48 <./gauss6.png>]
-Overfull \hbox (16.70879pt too wide) in paragraph at lines 1270--1271
+Overfull \hbox (16.70879pt too wide) in paragraph at lines 1272--1273
 []\OT1/ppl/m/n/10 Como la derivada de los cam-pos es or-tog-o-nal al plano tan-
 gente, $\OMS/cmsy/m/n/10 h\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t
 \OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; w[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/
@@ -1226,7 +1226,7 @@ cmr/m/n/10 )\OMS/cmsy/m/n/10 i \OT1/cmr/m/n/10 =
  []
 
 [49]
-Overfull \hbox (1.36272pt too wide) in paragraph at lines 1279--1280
+Overfull \hbox (1.36272pt too wide) in paragraph at lines 1281--1282
 []\OT1/ppl/m/n/10 Y luego una f[]ormula (de he-cho as[]^^P se de-finen los s[]^
 ^Pmbolos de Christof-fel) para la derivada
  []
@@ -1235,94 +1235,94 @@ Overfull \hbox (1.36272pt too wide) in paragraph at lines 1279--1280
 <gauss7.png, id=523, 1226.5825pt x 546.04pt>
 File: gauss7.png Graphic file (type png)
 <use gauss7.png>
-Package pdftex.def Info: gauss7.png  used on input line 1307.
+Package pdftex.def Info: gauss7.png  used on input line 1309.
 (pdftex.def)             Requested size: 270.66988pt x 120.49577pt.
  [51 <./gauss7.png>]
-<gauss8.png, id=531, 358.33875pt x 365.365pt>
+<gauss8.png, id=534, 358.33875pt x 365.365pt>
 File: gauss8.png Graphic file (type png)
 <use gauss8.png>
-Package pdftex.def Info: gauss8.png  used on input line 1326.
+Package pdftex.def Info: gauss8.png  used on input line 1328.
 (pdftex.def)             Requested size: 193.33647pt x 197.13248pt.
-<gauss9.png, id=532, 400.49625pt x 435.6275pt>
+<gauss9.png, id=535, 400.49625pt x 435.6275pt>
 File: gauss9.png Graphic file (type png)
 <use gauss9.png>
-Package pdftex.def Info: gauss9.png  used on input line 1330.
+Package pdftex.def Info: gauss9.png  used on input line 1332.
 (pdftex.def)             Requested size: 193.33647pt x 210.2953pt.
 
-Overfull \hbox (1.90001pt too wide) in paragraph at lines 1324--1332
+Overfull \hbox (1.90001pt too wide) in paragraph at lines 1326--1334
 [][] [] 
  []
 
-<gauss10.png, id=533, 361.35pt x 392.46625pt>
+<gauss10.png, id=536, 361.35pt x 392.46625pt>
 File: gauss10.png Graphic file (type png)
 <use gauss10.png>
-Package pdftex.def Info: gauss10.png  used on input line 1337.
+Package pdftex.def Info: gauss10.png  used on input line 1339.
 (pdftex.def)             Requested size: 193.33647pt x 209.98233pt.
-<gauss11.png, id=534, 361.35pt x 398.48875pt>
+<gauss11.png, id=537, 361.35pt x 398.48875pt>
 File: gauss11.png Graphic file (type png)
 <use gauss11.png>
-Package pdftex.def Info: gauss11.png  used on input line 1343.
+Package pdftex.def Info: gauss11.png  used on input line 1345.
 (pdftex.def)             Requested size: 193.33647pt x 213.20457pt.
 
-Overfull \hbox (1.90001pt too wide) in paragraph at lines 1335--1347
+Overfull \hbox (1.90001pt too wide) in paragraph at lines 1337--1349
 [][] [] 
  []
 
 [52 <./gauss8.png> <./gauss9.png> <./gauss10.png> <./gauss11.png>]
-<gauss12.png, id=547, 1003.75pt x 311.1625pt>
+<gauss12.png, id=550, 1003.75pt x 311.1625pt>
 File: gauss12.png Graphic file (type png)
 <use gauss12.png>
-Package pdftex.def Info: gauss12.png  used on input line 1371.
+Package pdftex.def Info: gauss12.png  used on input line 1373.
 (pdftex.def)             Requested size: 386.67296pt x 119.87152pt.
  [53 <./gauss12.png>]
-Overfull \hbox (3.6143pt too wide) in paragraph at lines 1409--1410
+Overfull \hbox (3.6143pt too wide) in paragraph at lines 1411--1412
 []\OT1/ppl/m/n/10 Consideremos en primer lu-gar un merid-i-ano con $\OML/cmm/m/
 it/10 u \OT1/cmr/m/n/10 =$ \OT1/ppl/m/n/10 con-stante, y $\OML/cmm/m/it/10 v \O
 T1/cmr/m/n/10 = \OML/cmm/m/it/10 v\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s\OT1/cmr/m
 /n/10 )$ \OT1/ppl/m/n/10 parametrizado
  []
 
-<gauss13.png, id=554, 682.55pt x 680.5425pt>
+<gauss13.png, id=557, 682.55pt x 680.5425pt>
 File: gauss13.png Graphic file (type png)
 <use gauss13.png>
-Package pdftex.def Info: gauss13.png  used on input line 1428.
+Package pdftex.def Info: gauss13.png  used on input line 1430.
 (pdftex.def)             Requested size: 232.00613pt x 231.31908pt.
 [54]
-Overfull \hbox (12.18315pt too wide) in paragraph at lines 1437--1438
+Overfull \hbox (12.18315pt too wide) in paragraph at lines 1439--1440
 []\OT1/ppl/b/n/10 Observaci^^Son. []\OT1/ppl/m/n/10 ?`Qu[]e pasa con el rec[]^^
 Pproco? Nece-sita ser enun-ci-ado en vecin-dades peque[]nas. 
  []
 
 [55 <./gauss13.png>] [56]
-Overfull \hbox (4.75293pt too wide) in paragraph at lines 1490--1491
+Overfull \hbox (4.75293pt too wide) in paragraph at lines 1492--1493
 \OT1/ppl/m/n/10 ciones bas-tante fi-nas como para que cada tri[]angulo est[]e c
 on-tenido en una parametrizaci[]on
  []
 
 [57]
-<gauss14.png, id=574, 786.94pt x 236.885pt>
+<gauss14.png, id=577, 786.94pt x 236.885pt>
 File: gauss14.png Graphic file (type png)
 <use gauss14.png>
-Package pdftex.def Info: gauss14.png  used on input line 1516.
+Package pdftex.def Info: gauss14.png  used on input line 1518.
 (pdftex.def)             Requested size: 270.66988pt x 81.476pt.
-<gauss15.png, id=575, 891.33pt x 303.1325pt>
+<gauss15.png, id=578, 891.33pt x 303.1325pt>
 File: gauss15.png Graphic file (type png)
 <use gauss15.png>
-Package pdftex.def Info: gauss15.png  used on input line 1524.
+Package pdftex.def Info: gauss15.png  used on input line 1526.
 (pdftex.def)             Requested size: 270.66988pt x 92.05055pt.
  [58 <./gauss14.png>]
-<gauss16.png, id=582, 935.495pt x 405.515pt>
+<gauss16.png, id=585, 935.495pt x 405.515pt>
 File: gauss16.png Graphic file (type png)
 <use gauss16.png>
-Package pdftex.def Info: gauss16.png  used on input line 1529.
+Package pdftex.def Info: gauss16.png  used on input line 1531.
 (pdftex.def)             Requested size: 270.66988pt x 117.33026pt.
-<gauss17.png, id=583, 817.0525pt x 435.6275pt>
+<gauss17.png, id=586, 817.0525pt x 435.6275pt>
 File: gauss17.png Graphic file (type png)
 <use gauss17.png>
-Package pdftex.def Info: gauss17.png  used on input line 1545.
+Package pdftex.def Info: gauss17.png  used on input line 1547.
 (pdftex.def)             Requested size: 270.66988pt x 144.31587pt.
  [59 <./gauss15.png> <./gauss16.png>]
-Overfull \hbox (29.15215pt too wide) in paragraph at lines 1551--1552
+Overfull \hbox (29.15215pt too wide) in paragraph at lines 1553--1554
 \OT1/ppl/m/n/10 ten-der in-definida-mente) con cur-vatura con-stante neg-a-tiva
  no se puede en-ca-jar isom[]etricamente
  []
@@ -1332,10 +1332,10 @@ Package rerunfilecheck Info: File `curvas-superficies.out' has not changed.
 (rerunfilecheck)             Checksum: 5E42628219BB6D63B61684A7D0C1DB44;4535.
  ) 
 Here is how much of TeX's memory you used:
- 24048 strings out of 476025
- 439726 string characters out of 5790018
+ 24050 strings out of 476025
+ 439767 string characters out of 5790018
  1869388 words of memory out of 5000000
- 43948 multiletter control sequences out of 15000+600000
+ 43950 multiletter control sequences out of 15000+600000
  534702 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,18n,89p,1207b,682s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1359,10 +1359,10 @@ xmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/202
 -dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/f
 onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
-Output written on curvas-superficies.pdf (61 pages, 9269389 bytes).
+Output written on curvas-superficies.pdf (61 pages, 9269607 bytes).
 PDF statistics:
- 725 PDF objects out of 1000 (max. 8388607)
- 504 compressed objects within 6 object streams
+ 728 PDF objects out of 1000 (max. 8388607)
+ 507 compressed objects within 6 object streams
  153 named destinations out of 1000 (max. 500000)
  517 words of extra memory for PDF output out of 10000 (max. 10000000)
 

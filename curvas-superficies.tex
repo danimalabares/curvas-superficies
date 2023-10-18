@@ -658,7 +658,9 @@ En el siguiente dibujo hecho en Mathematica vemos una deformación continua de u
 		¿La homotopía preserva la estructura regular de las superficies? Es decir, ¿las superficies en los puntos de en medio son todas regulares? ¿Isométricas?
 	\end{pregunta}
 	
-\begin{ejer}[El cono y el Pac-Man. Ejemplo 2, Cap. 4, Do Carmo] Mostrar que el cono visto como superficie de revolución y el Pac-Man no tienen la misma primera forma fundamental. Usar la parametrización que da Do Carmo y comprobar que de esa forma sí coincide la primera forma fundamental.
+\begin{ejer}[El cono y el Pac-Man. Ejemplo 2, Cap. 4, Do Carmo]\label{cono-pac-man}
+	
+	Mostrar que el cono visto como superficie de revolución y el Pac-Man no tienen la misma primera forma fundamental. Usar la parametrización que da Do Carmo y comprobar que de esa forma sí coincide la primera forma fundamental.
 		\vspace{-2cm}
 		\begin{figure}[H]
 		\begin{subfigure}{0.5\textwidth}
@@ -1071,10 +1073,10 @@ Haciendo productos internos de las primeras cuatro ecuaciones de arriba con el v
 Y que los "símbolos de Christoffel" $\Gamma^k_{ij}$ están dados en términos únicamente de la primera forma fundamental y sus derivadas. Específicamente:
 \begin{align*}
 	\Gamma^1_{11}E+\Gamma^2_{11}F&=\langle \mathbf x_{uu},\mathbf x_u\rangle=\frac{1}{2}E_u\\
-	\Gamma^1_{11}F+\Gamma^2_{11}G&=\langle \mathbf x_{uu},\mathbf x_v\rangle=F_u+\frac{1}{2}E_v\\\\
+	\Gamma^1_{11}F+\Gamma^2_{11}G&=\langle \mathbf x_{uu},\mathbf x_v\rangle=F_u-\frac{1}{2}E_v\\\\
 	\Gamma^1_{12}E+\Gamma^2_{12}F&=\langle \mathbf x_{uv},\mathbf x_v\rangle=\frac{1}{2}E_v\\
 	\Gamma^1_{1}F+\Gamma^2_{12}G&=\langle \mathbf x_{u},\mathbf x_v\rangle=\frac{1}{2}G_u\\ \\
-	\Gamma^1_{22}E+\Gamma^2_{22}F&=\langle \mathbf x_{vv},\mathbf x_u\rangle=F_v+\frac{1}{2}G_u\\
+	\Gamma^1_{22}E+\Gamma^2_{22}F&=\langle \mathbf x_{vv},\mathbf x_u\rangle=F_v-\frac{1}{2}G_u\\
 	\Gamma^1_{22}F+\Gamma^2_{22}G&=\langle \mathbf x_{vv},\mathbf x_v\rangle=\frac{1}{2}G_v
 \end{align*}
 Ahora resolviendo este sistema por pares (no es difícil, quizá valga la pena checar uno) se obtienen las ecuaciones:
@@ -1291,8 +1293,8 @@ Esta proposición nos permite definir:
 \begin{defn}
 	Sean $\alpha:I\to S$ una curva parametrizada en $S$ y $w_0\in T_{\alpha(t_0)}S$  para algún $t_0\in I$. Luego, sea $w$ el un único campo paralelo a lo largo de $\alpha$ tal que $w(t_0)=w_0$. El vector $w(t_1)$ es el **transporte paralelo** de $w_0$ a lo largo de $\alpha$ en $t_1$.
 \end{defn}
-\begin{obs}
-	\begin{enumerate}\leavevmode
+\begin{obs}\label{obs:superficies-tangentes}\leavevmode
+	\begin{enumerate}
 		\item Si la curva es regular, el transporte paralelo no depende de la parametrización de la curva. Esto es, un campo vectorial paralelo sigue siendo paralelo cuando hacemos un cambio de parametrización.
 		\item El transporte paralelo es una isometría lineal. Dados dos puntos $p$ y $q$ en una superficie y una curva $\alpha:[a,b]\to S$ que los une en sus extremos, tenemos la función $P_\alpha:T_pS\to T_qS$ que a cualquier vector tangente a la superficie en $p$ le asocia su transporte paralelo a lo largo de $\alpha$ en $q$.
 		\item Como la derivada covariante es la proyección de la derivada usual del campo sobre el plano tangente, se sigue que si dos superficies "son tangentes" a lo largo de una curva (esto es, el plano tangente es el mismo para todos los puntos de la curva), entonces las derivadas covariantes de cualquier campo definido a lo largo de la curva coinciden en ambas superficies. Luego, el transporte paralelo de algún vector $w_0$ es el mismo para ambas superficies.
@@ -1306,7 +1308,7 @@ Esta proposición nos permite definir:
 		\centering
 		\includegraphics[width=0.7\linewidth]{gauss7}
 	\end{figure}
-	Aquí observamos que el hecho de que el paralelo $C$ tenga colatitud $\varphi$ implica que el ángulo en el vértice del cono es de $\psi=\pi/2-\varphi$. Luego, pensemos en el cono que es tangente a la esfera a lo largo de $C$ para usar la observación 3 y nuestro trabajo sobre la isometría que conocemos entre el cono menos una generatriz y Pac-Man (Pizza). Recordemos que el ángulo de la Pizza debe ser de $2\pi\sin\varphi$, puesto que es el tamaño de nuestro paralelo (un círculo de radio $\sin\varphi$).
+	Aquí observamos que el hecho de que el paralelo $C$ tenga colatitud $\varphi$ implica que el ángulo en el vértice del cono es de $\psi=\pi/2-\varphi$. Luego, pensemos en el cono que es tangente a la esfera a lo largo de $C$ para usar la \hyperref[obs:superficies-tangentes]{observación anterior} y \hyperref[cono-pac-man]{nuestro trabajo sobre la isometría entre el cono menos una generatriz y Pac-Man (Pizza)}. Recordemos que el ángulo de la Pizza debe ser de $2\pi\sin\varphi$, puesto que es el tamaño de nuestro paralelo (un círculo de radio $\sin\varphi$).
 	
 	Luego, el transporte paralelo entre dos superficies isométricas es el mismo, ya que la derivada covariante está determinada por los símbolos de Christoffel. Así, un campo paralelo en el cono es enviado a un campo paralelo en la Pizza. ¡Pero la Pizza es plana!
 	
