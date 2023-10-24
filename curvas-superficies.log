@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.1)  18 OCT 2023 09:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.1)  24 OCT 2023 09:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1285,16 +1285,16 @@ T1/cmr/m/n/10 = \OML/cmm/m/it/10 v\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s\OT1/cmr/m
 <gauss13.png, id=557, 682.55pt x 680.5425pt>
 File: gauss13.png Graphic file (type png)
 <use gauss13.png>
-Package pdftex.def Info: gauss13.png  used on input line 1430.
+Package pdftex.def Info: gauss13.png  used on input line 1432.
 (pdftex.def)             Requested size: 232.00613pt x 231.31908pt.
 [54]
-Overfull \hbox (12.18315pt too wide) in paragraph at lines 1439--1440
+Overfull \hbox (12.18315pt too wide) in paragraph at lines 1441--1442
 []\OT1/ppl/b/n/10 Observaci^^Son. []\OT1/ppl/m/n/10 ?`Qu[]e pasa con el rec[]^^
 Pproco? Nece-sita ser enun-ci-ado en vecin-dades peque[]nas. 
  []
 
 [55 <./gauss13.png>] [56]
-Overfull \hbox (4.75293pt too wide) in paragraph at lines 1492--1493
+Overfull \hbox (4.75293pt too wide) in paragraph at lines 1494--1495
 \OT1/ppl/m/n/10 ciones bas-tante fi-nas como para que cada tri[]angulo est[]e c
 on-tenido en una parametrizaci[]on
  []
@@ -1303,26 +1303,26 @@ on-tenido en una parametrizaci[]on
 <gauss14.png, id=577, 786.94pt x 236.885pt>
 File: gauss14.png Graphic file (type png)
 <use gauss14.png>
-Package pdftex.def Info: gauss14.png  used on input line 1518.
+Package pdftex.def Info: gauss14.png  used on input line 1520.
 (pdftex.def)             Requested size: 270.66988pt x 81.476pt.
-<gauss15.png, id=578, 891.33pt x 303.1325pt>
+ [58 <./gauss14.png>]
+<gauss15.png, id=584, 891.33pt x 303.1325pt>
 File: gauss15.png Graphic file (type png)
 <use gauss15.png>
-Package pdftex.def Info: gauss15.png  used on input line 1526.
+Package pdftex.def Info: gauss15.png  used on input line 1528.
 (pdftex.def)             Requested size: 270.66988pt x 92.05055pt.
- [58 <./gauss14.png>]
 <gauss16.png, id=585, 935.495pt x 405.515pt>
 File: gauss16.png Graphic file (type png)
 <use gauss16.png>
-Package pdftex.def Info: gauss16.png  used on input line 1531.
+Package pdftex.def Info: gauss16.png  used on input line 1533.
 (pdftex.def)             Requested size: 270.66988pt x 117.33026pt.
 <gauss17.png, id=586, 817.0525pt x 435.6275pt>
 File: gauss17.png Graphic file (type png)
 <use gauss17.png>
-Package pdftex.def Info: gauss17.png  used on input line 1547.
+Package pdftex.def Info: gauss17.png  used on input line 1549.
 (pdftex.def)             Requested size: 270.66988pt x 144.31587pt.
  [59 <./gauss15.png> <./gauss16.png>]
-Overfull \hbox (29.15215pt too wide) in paragraph at lines 1553--1554
+Overfull \hbox (29.15215pt too wide) in paragraph at lines 1555--1556
 \OT1/ppl/m/n/10 ten-der in-definida-mente) con cur-vatura con-stante neg-a-tiva
  no se puede en-ca-jar isom[]etricamente
  []
@@ -1338,7 +1338,7 @@ Here is how much of TeX's memory you used:
  43950 multiletter control sequences out of 15000+600000
  534702 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,18n,89p,1207b,682s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,18n,89p,1207b,643s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
@@ -1359,7 +1359,7 @@ xmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/202
 -dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/f
 onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
-Output written on curvas-superficies.pdf (61 pages, 9269607 bytes).
+Output written on curvas-superficies.pdf (61 pages, 9269914 bytes).
 PDF statistics:
  728 PDF objects out of 1000 (max. 8388607)
  507 compressed objects within 6 object streams
